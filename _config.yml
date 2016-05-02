@@ -1,0 +1,28 @@
+name: SS TEST SITE
+favicon: null
+layout_spectrum: 0.3909548968076706
+typography_spectrum: 0.7816645919810981
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.4731897097080946
+  lightness: 0.5611798386089504
+  saturation: 0.0700838747434318
+  rhythmicContrast: 0.7620378485880792
+purpose: []
